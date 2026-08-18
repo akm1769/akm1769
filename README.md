@@ -4,7 +4,7 @@ Building across hardware and software — from Arduino circuits to full-stack we
 
 > Currently exploring full-stack development and AI-assisted tools.
 
-**LinkedIn:** (add your link) · **Email:** (add your email)
+· **Email:** amoghakrishnam99@gmail.com
 
 ---
 
